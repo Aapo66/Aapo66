@@ -4,3 +4,4 @@ you can reach me in my email and twitter(X)
 
 email: andersonelvis191@gmail.com
 twitter(X): https://twitter.com/AndersonEl16064
+linkedin: https://linkedin.com/in/anderson-elvis-8a8406227
