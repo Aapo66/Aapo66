@@ -1,4 +1,4 @@
-### Olá, eu sou o @Aapo66
+# Olá, eu sou o @Aapo66
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
@@ -14,7 +14,10 @@ Welcome to my GitHub profile! 🚀
 I am currently studying English and learning programming to code in the gaming area, which is my dream.
 My focus is currently on learning Python, frameworks and databases. 🎮
 
-## Feel free to reach out to me through the following channels(Se sinta livre para me seguir e me contatar nessas redes):
+---
+
+## Fique à vontade para entrar em contato comigo através dos seguintes canais:
+## Feel free to reach out to me through the following channels:
 
 
 <a href="https://twitter.com/AndersonEl16064">
