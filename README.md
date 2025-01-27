@@ -1,15 +1,9 @@
-# Olá, eu sou o @Aapo66
+### Olá, eu sou o @Aapo66
 
 Bem-vindo ao meu perfil do GitHub! 🚀
 
 Atualmente estou estudando inglês e aprendendo programação para atuar na área de desenvolvimento de jogos, que é o meu sonho. 🎮
-
-## Sinta-se à vontade para entrar em contato comigo pelos seguintes canais:
-
-- ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Gmail_Icon.png | width=20) [Email: andersonelvis191@gmail.com](mailto:andersonelvis191@gmail.com)
-- ![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg | width=20) [Twitter (X): @AndersonEl16064](https://twitter.com/AndersonEl16064)
-- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png | width=20) [LinkedIn: Anderson Elvis](https://linkedin.com/in/anderson-elvis-8a8406227)
-- ![Netlify Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Netlify_logo.svg | width=20) [Projetos Aapo66](https://app.netlify.com/teams/aapo66/sites)
+Meu foco atualmente está sendo em aprender python, frameworks e banco de dados.
 
 ---
 
@@ -17,29 +11,18 @@ Atualmente estou estudando inglês e aprendendo programação para atuar na áre
 
 Welcome to my GitHub profile! 🚀
 
-I am currently studying English and learning programming to code in the gaming area, which is my dream. 🎮
+I am currently studying English and learning programming to code in the gaming area, which is my dream.
+My focus is currently on learning Python, frameworks and databases. 🎮
 
-## Feel free to reach out to me through the following channels:
+## Feel free to reach out to me through the following channels(Se sinta livre para me seguir e me contatar nessas redes):
 
-- ![Gmail Logo](https://upload.wikimedia.org/wikipedia/commons/a/a1/Gmail_Icon.png | width=20) [Email: andersonelvis191@gmail.com](mailto:andersonelvis191@gmail.com)
-- ![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg | width=20) [Twitter (X): @AndersonEl16064](https://twitter.com/AndersonEl16064)
-- ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png | width=20) [LinkedIn: Anderson Elvis](https://linkedin.com/in/anderson-elvis-8a8406227)
-- ![Netlify Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Netlify_logo.svg | width=20) [Netlify: Aapo66 Projects](https://app.netlify.com/teams/aapo66/sites)
 
----
+<a href="https://twitter.com/AndersonEl16064">
+<img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /> </a>
+<a href="https://linkedin.com/in/anderson-elvis-8a8406227">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
+<a href="https://app.netlify.com/teams/aapo66/sites">
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />  </a>
+<a href="mailto:andersonelvis191@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>
 
-## Sobre Mim
-
-Sou apaixonado por programação, especialmente no desenvolvimento de jogos. Adoro trabalhar em projetos que desafiem minhas habilidades de resolução de problemas e criatividade.
-
-Estou constantemente aprimorando minhas habilidades e ansioso para contribuir com projetos emocionantes.
-
-## About Me
-
-I’m passionate about programming, especially in game development. I enjoy working on projects that challenge my problem-solving skills and creativity.
-
-I'm constantly improving my skills and looking forward to contributing to exciting projects.
-
----
-
-![GitHub Logo](https://github.com/favicon.ico | width=20) ![Twitter Logo](https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_as_of_2021.svg | width=20) ![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png | width=20) ![Netlify Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/Netlify_logo.svg | width=20)
