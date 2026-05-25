@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub! 🚀
 
 Atualmente estou estudando inglês e aprendendo programação para atuar na área de desenvolvimento de jogos, que é o meu sonho. 🎮
-Meu foco atualmente está sendo em HTML, CSS, Javascript, Python, SQL e ANGULAR
+Meu foco atualmente está sendo em HTML, CSS, Javascript, Python, SQL e ANGULAR.
 
 ---
 
@@ -12,7 +12,7 @@ Meu foco atualmente está sendo em HTML, CSS, Javascript, Python, SQL e ANGULAR
 Welcome to my GitHub profile! 🚀
 
 I am currently studying English and learning programming to code in the gaming area, which is my dream.
-My focus is currently on learning HTML, CSS, Javascript, Python, SQL and ANGULAR
+My focus is currently on learning HTML, CSS, Javascript, Python, SQL and ANGULAR.
 
 ---
 
