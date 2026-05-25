@@ -24,8 +24,6 @@ My focus is currently on learning Python, frameworks and databases. 🎮
 <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/anderson-elvis-8a8406227">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />  </a>
-<a href="https://app.netlify.com/teams/aapo66/sites">
-<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />  </a>
 <a href="mailto:andersonelvis191@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  </a>
 
